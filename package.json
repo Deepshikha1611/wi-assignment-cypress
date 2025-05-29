@@ -1,0 +1,12 @@
+{
+  "name": "wi-assignment-tests",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "cypress open",
+    "test:ci": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^12.17.1",
+    "cypress-xpath": "^2.0.1"
+  }
+}
